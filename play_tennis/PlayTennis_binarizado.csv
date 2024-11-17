@@ -1,0 +1,15 @@
+Overcast,Rain,Sunny,Cool,Hot,Mild,High,Normal,Strong,Weak,Play Tennis
+False,False,True,False,True,False,True,False,False,True,No
+False,False,True,False,True,False,True,False,True,False,No
+True,False,False,False,True,False,True,False,False,True,Yes
+False,True,False,False,False,True,True,False,False,True,Yes
+False,True,False,True,False,False,False,True,False,True,Yes
+False,True,False,True,False,False,False,True,True,False,No
+True,False,False,True,False,False,False,True,True,False,Yes
+False,False,True,False,False,True,True,False,False,True,No
+False,False,True,True,False,False,False,True,False,True,Yes
+False,True,False,False,False,True,False,True,False,True,Yes
+False,False,True,False,False,True,False,True,True,False,Yes
+True,False,False,False,False,True,True,False,True,False,Yes
+True,False,False,False,True,False,False,True,False,True,Yes
+False,True,False,False,False,True,True,False,True,False,No
